@@ -1,0 +1,12 @@
+﻿@model WebWallet.Domain.Model.User
+
+@{
+    ViewBag.Title = "Регистрация";
+    Layout = "~/Views/Shared/_MenuCommon.cshtml";
+}
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary()
+        @Html.React("RegistrationForm", Model)
+    }

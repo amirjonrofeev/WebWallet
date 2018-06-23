@@ -1,0 +1,14 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Contents/main.css" rel="stylesheet" type="text/css" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    @Html.React("MenuBar", new { })
+    @RenderBody()
+    @Html.React("Footer", new { })
+    <script src="~/Scripts/react/react.min.js"></script>
+    <script src="~/Scripts/react/react-dom.min.js"></script>
+</body>
+</html>

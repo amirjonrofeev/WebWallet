@@ -1,0 +1,12 @@
+﻿@model WebWallet.Domain.Model.MoneySend
+
+@{
+    ViewBag.Title = "Перевести деньги";
+    Layout = "~/Views/Shared/_MenuCommon.cshtml";
+}
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        @Html.AntiForgeryToken()
+        @Html.React("SendMoney", Model)
+    }

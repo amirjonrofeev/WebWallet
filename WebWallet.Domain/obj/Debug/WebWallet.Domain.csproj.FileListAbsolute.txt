@@ -1,0 +1,38 @@
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\WebWallet.Domain.dll.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\WebWallet.Domain.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\WebWallet.Domain.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\EntityFramework.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\EntityFramework.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\obj\Debug\WebWallet.Domain.csprojResolveAssemblyReference.cache
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\obj\Debug\WebWallet.Domain.csproj.CoreCompileInputs.cache
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\obj\Debug\WebWallet.Domain.csproj.CopyComplete
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\obj\Debug\WebWallet.Domain.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\obj\Debug\WebWallet.Domain.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\System.Web.Razor.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\System.Web.Razor.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\WebWallet.Domain.dll.config
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\WebWallet.Domain.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\WebWallet.Domain.pdb
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\obj\Debug\WebWallet.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\obj\Debug\WebWallet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\obj\Debug\WebWallet.Domain.csproj.CopyComplete
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\obj\Debug\WebWallet.Domain.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Domain\obj\Debug\WebWallet.Domain.pdb

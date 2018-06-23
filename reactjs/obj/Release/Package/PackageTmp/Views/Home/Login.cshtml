@@ -1,0 +1,13 @@
+﻿@model WebWallet.Domain.Model.UserLogin
+
+@{
+    ViewBag.Title = "Вход на страницу";
+    Layout = "~/Views/Shared/_MenuLogin.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(null, new { style = "margin-left:415px;" }, null)
+    @Html.React("Login", new { })
+}

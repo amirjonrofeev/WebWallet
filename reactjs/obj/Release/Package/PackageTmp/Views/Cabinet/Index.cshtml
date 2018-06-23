@@ -1,0 +1,7 @@
+﻿@model WebWallet.Domain.Model.User
+@{
+    ViewBag.Title = "Кабинет";
+    Layout = "~/Views/Shared/_MenuCommon.cshtml";
+}
+
+@Html.React("Cabinet", Model)

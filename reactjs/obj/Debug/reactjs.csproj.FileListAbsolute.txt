@@ -1,0 +1,210 @@
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\reactjs.dll.config
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\reactjs.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\reactjs.pdb
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\csc.exe
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\csc.exe.config
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\csc.rsp
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\csi.exe
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\csi.exe.config
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\csi.rsp
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.AppContext.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Console.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.Claims.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\vbc.exe
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\vbc.exe.config
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\vbc.rsp
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ClearScript.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JSPool.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\MsieJavaScriptEngine.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\Newtonsoft.Json.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\React.Core.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\React.Web.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\React.Web.Mvc4.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Helpers.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Mvc.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Razor.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Webpages.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Webpages.Razor.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\VroomJs.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\WebActivatorEx.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\JSPool.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\MsieJavaScriptEngine.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\Newtonsoft.Json.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\React.Core.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\React.Web.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\React.Web.Mvc4.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\VroomJs.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Razor.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Webpages.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Webpages.Razor.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Helpers.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\System.Web.Mvc.xml
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\obj\Debug\reactjs.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\ReactJs\reactjs\obj\Debug\reactjs.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\ReactJs\reactjs\obj\Debug\reactjs.csproj.CopyComplete
+C:\Users\Amir\Desktop\ReactJs\reactjs\obj\Debug\reactjs.dll
+C:\Users\Amir\Desktop\ReactJs\reactjs\obj\Debug\reactjs.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\reactjs.dll.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\reactjs.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\reactjs.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\csc.exe
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\csc.exe.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\csc.rsp
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\csi.exe
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\csi.exe.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\csi.rsp
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.AppContext.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Collections.Immutable.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Console.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Diagnostics.Process.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.IO.Compression.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.IO.FileSystem.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.IO.Pipes.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Reflection.Metadata.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.AccessControl.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.Claims.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Threading.Thread.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.ValueTuple.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Xml.XPath.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\vbc.exe
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\vbc.exe.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\vbc.rsp
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\VBCSCompiler.exe
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\roslyn\VBCSCompiler.exe.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ClearScript.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Core.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Msie.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.V8.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JSPool.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\MsieJavaScriptEngine.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\Newtonsoft.Json.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\React.Core.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\React.Web.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\React.Web.Mvc4.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Helpers.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Mvc.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Razor.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Webpages.Deployment.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Webpages.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Webpages.Razor.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\VroomJs.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\WebActivatorEx.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Core.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.Msie.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JavaScriptEngineSwitcher.V8.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\JSPool.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\MsieJavaScriptEngine.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\Newtonsoft.Json.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\React.Core.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\React.Web.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\React.Web.Mvc4.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\VroomJs.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Razor.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Webpages.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Webpages.Deployment.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Webpages.Razor.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Helpers.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\System.Web.Mvc.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru\System.Web.Razor.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru\System.Web.Webpages.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru\System.Web.Helpers.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\bin\ru\System.Web.Mvc.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\obj\Debug\reactjs.csprojResolveAssemblyReference.cache
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\obj\Debug\reactjs.csproj.CoreCompileInputs.cache
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\obj\Debug\reactjs.csproj.CopyComplete
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\obj\Debug\reactjs.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\reactjs\obj\Debug\reactjs.pdb

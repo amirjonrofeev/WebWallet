@@ -1,0 +1,136 @@
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.Tests.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.Tests.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.Domain.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\EntityFramework.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.Razor.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.Domain.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.Domain.dll.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\EntityFramework.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.Razor.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\obj\Debug\WebWallet.Tests.csprojResolveAssemblyReference.cache
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\obj\Debug\WebWallet.Tests.csproj.CoreCompileInputs.cache
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\obj\Debug\WebWallet.Tests.csproj.CopyComplete
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\obj\Debug\WebWallet.Tests.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\obj\Debug\WebWallet.Tests.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.Tests.dll.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.WebUI.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebActivatorEx.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\React.Core.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Core.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JSPool.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\VroomJs.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.V8.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Msie.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ClearScript.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\MsieJavaScriptEngine.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.WebUI.pdb
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\WebWallet.WebUI.dll.config
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\React.Core.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Core.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JSPool.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\VroomJs.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.V8.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Msie.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\MsieJavaScriptEngine.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru-ru\MsieJavaScriptEngine.resources.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Мои проекты\Solutions\Проекты для повтора\ReactJs\WebWallet.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.Tests.dll.config
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.Tests.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.Tests.pdb
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.Domain.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.WebUI.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\React.Core.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JSPool.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\VroomJs.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.V8.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ClearScript.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\MsieJavaScriptEngine.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.WebUI.pdb
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.WebUI.dll.config
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.Domain.pdb
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\WebWallet.Domain.dll.config
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\React.Core.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Core.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JSPool.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\VroomJs.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.V8.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\MsieJavaScriptEngine.xml
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\bin\Debug\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\obj\Debug\WebWallet.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\obj\Debug\WebWallet.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\obj\Debug\WebWallet.Tests.csproj.CopyComplete
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\obj\Debug\WebWallet.Tests.dll
+C:\Users\Amir\Downloads\WebWallet\WebWallet.Tests\obj\Debug\WebWallet.Tests.pdb

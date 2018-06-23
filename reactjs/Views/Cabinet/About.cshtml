@@ -1,0 +1,8 @@
+﻿@model WebWallet.Domain.Model.User
+
+@{
+    ViewBag.Title = "Информация о пользователе";
+    Layout = "~/Views/Shared/_MenuCommon.cshtml";
+}
+
+@Html.React("About", Model)

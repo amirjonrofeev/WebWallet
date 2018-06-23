@@ -1,0 +1,16 @@
+﻿@model IEnumerable<WebWallet.Domain.Model.Transactions>
+
+@{
+    ViewBag.Title = "История транзакции";
+    Layout = "~/Views/Shared/_MenuLogin.cshtml";
+}
+
+@Html.React("TitleTransactionHistory", new { })
+
+<table style="margin-left:300px;">
+    @foreach (var item in Model)
+    {
+        @Html.React("TransactionHistory", item)
+    }
+</table>
+@Html.React("Back", new { })
